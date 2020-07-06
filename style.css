@@ -19,3 +19,22 @@
     cursor: pointer;
     color: #ffff;
 }
+.table-1, .table-2, .table-3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.table-1{
+    background-color: orange;
+}
+.table-2{
+    background-color: orangered;
+}
+.table-3{
+    background-color: orchid;
+}
+.categories{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
